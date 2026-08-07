@@ -1,7 +1,7 @@
 ## st-man-hori
 
 <p align="center">
-  <img src="./images/Hithere.png" alt="Hithere" width="500">
+  <img src="./images/Hithere.png" alt="Hithere" width="500" height="192">
 </p>
 
 <p align="center">
