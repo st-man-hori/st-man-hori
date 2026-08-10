@@ -11,7 +11,7 @@
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,jquery,php,laravel,mysql,git,github,githubactions,docker,nginx,aws,bash,vscode" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,mysql,git,github,githubactions,docker,nginx,aws,bash,vscode" alt="Skill Icons" />
 </p>
 
 ## Articles
