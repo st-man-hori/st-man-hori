@@ -14,12 +14,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,mysql,git,github,githubactions,docker,nginx,aws,bash,vscode" alt="Skill Icons" />
 </p>
 
-### Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs" alt="Learning Icons" />
-</p>
-
 ## AI Tools
 
 <p>
